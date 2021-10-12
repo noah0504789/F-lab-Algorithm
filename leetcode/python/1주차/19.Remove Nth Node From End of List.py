@@ -1,38 +1,19 @@
-# 15. 3Sum
+class Solution:
+    def removeNthFromEnd(self, head, n):
 
-class Solution(object):
-    def threeSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        results = []
-        nums.sort()
+        dummy = ListNode(-1)
+        dummy.next = head
 
-        for i in range(len(nums) - 2):
-            left, right = i + 1, len(nums) - 1
+        back = dummy
+        front = dummy
 
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
+        for i in range(n):
+            front = front.next
 
-            while left < right:
-                sum = nums[i] + nums[left] + nums[right]
+        while front.next != None:
+            front = front.next
+            back = back.next
 
-                if sum > 0:
-                    right -= 1
-                elif sum < 0:
-                    left += 1
-                else:
-                    results.append([nums[i], nums[left], nums[right]])
+        back.next = back.next.next
 
-                    # 중복 제거
-                    while left < right and nums[left] == nums[left + 1]:
-                        left += 1
-                    while left < right and nums[right] == nums[right - 1]:
-                        right -= 1
-
-                    left += 1
-                    right -= 1
-
-        return results
-
+        return dummy.next

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e86a5d0b-62ad-416e-bdfb-fe701f982a31" name="Default Changelist" comment="2. Add Two Numbers (10/07)" />
+    <list default="true" id="e86a5d0b-62ad-416e-bdfb-fe701f982a31" name="Default Changelist" comment="2. Add Two Numbers (10/07)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1주차/19.Remove Nth Node From End of List.py" beforeDir="false" afterPath="$PROJECT_DIR$/1주차/19.Remove Nth Node From End of List.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +76,8 @@
       <updated>1633625344010</updated>
       <workItem from="1633625346032" duration="1691000" />
       <workItem from="1633689901641" duration="234000" />
+      <workItem from="1633789275448" duration="81000" />
+      <workItem from="1633859594885" duration="209000" />
     </task>
     <task id="LOCAL-00001" summary="2. Add Two Numbers (10/07)">
       <created>1633625651407</created>
