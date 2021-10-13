@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e86a5d0b-62ad-416e-bdfb-fe701f982a31" name="Default Changelist" comment="2. Add Two Numbers (10/07)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1주차/19.Remove Nth Node From End of List.py" beforeDir="false" afterPath="$PROJECT_DIR$/1주차/19.Remove Nth Node From End of List.py" afterDir="false" />
-    </list>
+    <list default="true" id="e86a5d0b-62ad-416e-bdfb-fe701f982a31" name="Default Changelist" comment="34. Find First and Last Position of Element in Sorted Array" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
