@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e86a5d0b-62ad-416e-bdfb-fe701f982a31" name="Default Changelist" comment="34. Find First and Last Position of Element in Sorted Array" />
+    <list default="true" id="e86a5d0b-62ad-416e-bdfb-fe701f982a31" name="Default Changelist" comment="34. Find First and Last Position of Element in Sorted Array">
+      <change afterPath="$PROJECT_DIR$/1주차/152. Maximum Product Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1주차/198. House Robber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1주차/200. Number of Islands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +81,15 @@
       <workItem from="1633789275448" duration="81000" />
       <workItem from="1633859594885" duration="209000" />
       <workItem from="1634105736593" duration="122000" />
+      <workItem from="1634214235311" duration="84000" />
+      <workItem from="1634394140098" duration="5000" />
+      <workItem from="1634402910772" duration="105000" />
+      <workItem from="1634660421037" duration="191000" />
+      <workItem from="1634709783899" duration="126000" />
+      <workItem from="1634738042636" duration="51000" />
+      <workItem from="1634806041499" duration="38000" />
+      <workItem from="1634998289323" duration="62000" />
+      <workItem from="1635417902337" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="2. Add Two Numbers (10/07)">
       <created>1633625651407</created>
@@ -112,6 +126,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2. Add Two Numbers (10/07)" />
     <option name="LAST_COMMIT_MESSAGE" value="2. Add Two Numbers (10/07)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1주차/45. Jump Game II.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$5_Longest_Palindromic_Substring.coverage" NAME="5.Longest Palindromic Substring Coverage Results" MODIFIED="1633690001155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1주차" />
